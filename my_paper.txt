@@ -1,3 +1,8 @@
-This is going to be awesome
+This is my paper
+===============
 
-So awesome...!
+This is going to be awesome.
+
+This is where the methods go: here.
+
+Results go here.
